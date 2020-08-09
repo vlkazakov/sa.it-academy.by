@@ -1,3 +1,11 @@
+<<<<<<< HEAD
+=======
+## Project's reporter: Vladimir Kazakov
+## Group number: m-sa2-13-20
+
+## Description of application for deployment
+
+>>>>>>> 386ecd0f83c3c6882bc847b5271b50835a0910cb
 ## Project's reporter: Vladimir Kazakov
 ## Group number: m-sa2-13-20
 
